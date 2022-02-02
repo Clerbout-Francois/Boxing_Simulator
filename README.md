@@ -8,7 +8,7 @@
 3. [Class diagram](#class_diagram) 
 4. [Development](#development_)
 5. [Conclusion](#conclusion_)
-6. [License](#license_)
+6. [License](#license)
 
 
 
