@@ -1,4 +1,4 @@
-# Box Simulator
+# Boxing Simulator
 
 <a name="table_of_contents"/>
 
@@ -16,7 +16,7 @@
 
 ## Instructions
 
-For this BoxSimulator program to work properly, the .txt files must be placed in the src folder (as shown in the following figure).
+For this Boxing Simulator program to work properly, the .txt files must be placed in the src folder (as shown in the following figure).
 
 ![alt text](https://github.com/Clerbout-Francois/Box_Simulator/blob/main/Image1.png?raw=true)
 
