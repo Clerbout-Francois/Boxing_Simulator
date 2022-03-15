@@ -249,7 +249,7 @@ We liked this project because it corresponded to our expectations in terms of wo
 
 Indeed, we spent several weeks on this project and chose to work in the following way : one of us coded and the other was there to proofread the code (and vice versa), this allowed us to progress much faster because we limited the errors of inattention. Of course it was not always the same person who coded and the same for the person in charge of proofreading. When we were not together, we determined tasks to be carried out (such as the creation of methods, error management or the schematisation of future methods) which each person could do on their own in order to make as much progress as possible. We would pool this progress when we got back together.
 
-Furthermore, we are aware that we could continue to develop this programme in order to complete and improve it. This could mean the following ideas: 
+Furthermore, we are aware that we could continue to develop this program in order to complete and improve it. This could mean the following ideas: 
 
 * creating a graphical interface to make the program more visually pleasing,
 
