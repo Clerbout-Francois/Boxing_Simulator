@@ -18,7 +18,7 @@
 
 For this Boxing Simulator program to work properly, the .txt files must be placed in the src folder (as shown in the following figure).
 
-![alt text](https://github.com/Clerbout-Francois/Box_Simulator/blob/main/Image1.png?raw=true)
+![alt text](https://github.com/Clerbout-Francois/Box_Simulator/blob/main/images_JAVA/Image1.png?raw=true)
 
 _Figure 1: Photograph to indicate the placement of the program's .txt files._
 
@@ -37,9 +37,9 @@ We chose to carry out this project because it seemed ambitious to us and we were
 
 ## Class diagram
 
-![alt text](https://github.com/Clerbout-Francois/Box_Simulator/blob/main/Image2.png?raw=true)
+![alt text](https://github.com/Clerbout-Francois/Box_Simulator/blob/main/images_JAVA/Image2.png?raw=true)
 
-![alt text](https://github.com/Clerbout-Francois/Box_Simulator/blob/main/Image9.png?raw=true)
+![alt text](https://github.com/Clerbout-Francois/Box_Simulator/blob/main/images_JAVA/Image9.png?raw=true)
 
 _Figure 2: Class diagram of the Java program "BoxSimulator"._
 
@@ -172,7 +172,7 @@ This interface makes it possible to reference the method **revelationAuteursCode
 
 When the program starts, the following menu is displayed:
 
-![alt text](https://github.com/Clerbout-Francois/Box_Simulator/blob/main/Image3.png?raw=true)
+![alt text](https://github.com/Clerbout-Francois/Box_Simulator/blob/main/images_JAVA/Image3.png?raw=true)
 
 _Figure 3: Menu displayed when the programme starts._
 
@@ -194,7 +194,7 @@ You should distinguish between the different options available to you at this mo
 
 ### Creation mode
 
-![alt text](https://github.com/Clerbout-Francois/Box_Simulator/blob/main/Image4.png?raw=true)
+![alt text](https://github.com/Clerbout-Francois/Box_Simulator/blob/main/images_JAVA/Image4.png?raw=true)
 
 _Figure 4: Menu displayed once in Creation mode._
 
@@ -202,11 +202,11 @@ We still have to distinguish between 2 cases: the creation of a person, be it a 
 
 We will use the example of the creation (manual and automatic) of a boxer, knowing that the creation of a referee, a spectator and a tournament works the same way.
 
-![alt text](https://github.com/Clerbout-Francois/Box_Simulator/blob/main/Image5.png?raw=true)
+![alt text](https://github.com/Clerbout-Francois/Box_Simulator/blob/main/images_JAVA/Image5.png?raw=true)
 
 _Figure 5: Menu displayed in Person Creation mode._
 
-![alt text](https://github.com/Clerbout-Francois/Box_Simulator/blob/main/Image6.png?raw=true)
+![alt text](https://github.com/Clerbout-Francois/Box_Simulator/blob/main/images_JAVA/Image6.png?raw=true)
 
 _Figure 6: Menu displayed to create a boxer._
 
@@ -222,7 +222,7 @@ In the case of an automatic creation of a boxer, the program will decide itself 
 
 This mode allows the user to choose which tournament they want to play, for this the main program will create the missing boxers to reach 128 boxers as well as the referees and a random number of spectators. The user arrives in this program where he will find the 3 pre-entered tournament names (he can of course add more in the Tournament Creation mode).
 
-![alt text](https://github.com/Clerbout-Francois/Box_Simulator/blob/main/Image7.png?raw=true)
+![alt text](https://github.com/Clerbout-Francois/Box_Simulator/blob/main/images_JAVA/Image7.png?raw=true)
 
 _Figure 7: Display of available tournaments._
 
