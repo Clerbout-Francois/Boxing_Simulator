@@ -16,13 +16,13 @@
 
 ## Instructions
 
-For this Boxing Simulator program to work properly, the .txt files must be placed in the src folder (as shown in the following figure).
+For this Boxing Simulator program to work properly, the .txt files must be placed in the folder as shown in the following figure.
 
 ![alt text](https://github.com/Clerbout-Francois/Box_Simulator/blob/main/images_JAVA/Image1.png?raw=true)
 
 _Figure 1: Photograph to indicate the placement of the program's .txt files._
 
-The .java files (all the boxsimulator directory) must be placed into the src folder.
+The .java files (all the boxsimulator directory) must be placed in the src folder.
 
 
 [Table of Contents](#table_of_contents)
