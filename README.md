@@ -20,7 +20,7 @@ For this Boxing Simulator program to work properly, the .txt files must be place
 
 ![alt text](https://github.com/Clerbout-Francois/Box_Simulator/blob/main/images_JAVA/Image1.png?raw=true)
 
-_Figure 1: Photograph to indicate the placement of the program's .txt files._
+_Figure 1 : Photograph to indicate the placement of the program's .txt files._
 
 The .java files (all the boxsimulator directory) must be placed in the src folder.
 
@@ -43,7 +43,7 @@ We chose to carry out this project because it seemed ambitious to us and we were
 
 ![alt text](https://github.com/Clerbout-Francois/Box_Simulator/blob/main/images_JAVA/Image9.png?raw=true)
 
-_Figure 2: Class diagram of the Java program "BoxSimulator"._
+_Figure 2 : Class diagram of the Java program "BoxSimulator"._
 
 
 In each class, getter and setter methods have been created where necessary. They allow to retrieve or modify information.
@@ -176,7 +176,7 @@ When the program starts, the following menu is displayed:
 
 ![alt text](https://github.com/Clerbout-Francois/Box_Simulator/blob/main/images_JAVA/Image3.png?raw=true)
 
-_Figure 3: Menu displayed when the programme starts._
+_Figure 3 : Menu displayed when the programme starts._
 
 From this menu, the user can interact with the program.
 
@@ -198,7 +198,7 @@ You should distinguish between the different options available to you at this mo
 
 ![alt text](https://github.com/Clerbout-Francois/Box_Simulator/blob/main/images_JAVA/Image4.png?raw=true)
 
-_Figure 4: Menu displayed once in Creation mode._
+_Figure 4 : Menu displayed once in Creation mode._
 
 We still have to distinguish between 2 cases: the creation of a person, be it a boxer, a referee or a spectator, and the creation of a tournament.
 
@@ -206,11 +206,11 @@ We will use the example of the creation (manual and automatic) of a boxer, knowi
 
 ![alt text](https://github.com/Clerbout-Francois/Box_Simulator/blob/main/images_JAVA/Image5.png?raw=true)
 
-_Figure 5: Menu displayed in Person Creation mode._
+_Figure 5 : Menu displayed in Person Creation mode._
 
 ![alt text](https://github.com/Clerbout-Francois/Box_Simulator/blob/main/images_JAVA/Image6.png?raw=true)
 
-_Figure 6: Menu displayed to create a boxer._
+_Figure 6 : Menu displayed to create a boxer._
 
 The purpose of this program is to guide you step by step in the manual creation of a person (be it a boxer, a referee or a spectator) or to propose you the automatic creation of a boxer.
 
@@ -226,7 +226,7 @@ This mode allows the user to choose which tournament they want to play, for this
 
 ![alt text](https://github.com/Clerbout-Francois/Box_Simulator/blob/main/images_JAVA/Image7.png?raw=true)
 
-_Figure 7: Display of available tournaments._
+_Figure 7 : Display of available tournaments._
 
 The user will then be able to see the matches and choose the mode of play (automatic or manual) of the matches until the final announcement of the winner and the publication of an article in the .txt file "Annonce_Champion.txt".
 
